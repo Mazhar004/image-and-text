@@ -14,7 +14,7 @@ Text extract &amp; reformatting for different text structure
 - `sudo apt-get install tesseract-ocr`
 
 ## Tasks
-### Data extract from column wise structure [Link](multiple column in one page/column wise data extract.ipynb)
+### Data extract from column wise structure [Link](multiple%20column%20in%20one%20page/column%20wise%20data%20extract.ipynb)
 <table>
 <tr align='center'>
 <td><img src="multiple column in one page/assets/pdf_sample.png" alt="PDF Samples.jpg" width="460" height="500"/></td></tr>
